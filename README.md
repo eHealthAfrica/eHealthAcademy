@@ -1,2 +1,2 @@
 # eHealthAcademy
-eHelth Academy Website
+eHealth Academy Website
